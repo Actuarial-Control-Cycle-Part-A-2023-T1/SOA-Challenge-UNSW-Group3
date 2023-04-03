@@ -23,3 +23,14 @@ The RSI program is offered to the entire population of Storslysia and is designe
 <p align="center">
 <img src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-group-3/blob/Github-page-group3/Key%20Matrix%20of%20the%20program.png"> 
 </p>
+
+
+## Program Design
+### 3.1 Claim Lodgement Requirements
+### 3.2 Coverage Limitations
+### 3.3 Policy Incentives
+The program has a few key incentives embedded in its design to reduce the overall economic costs of displacement within the country. The key incentives are outlined below:
+1. Bonus relocation incentive payment
+A bonus relocation payment of Ꝕ2000 will be provided to those living in owner occupied properties who voluntarily relocate from a high-risk area to a low-risk area prior to a hazard event.
+2. Community disaster awareness program
+A community disaster awareness program is set up to creative awareness of the program as well as inform the community of the risks of continuing to live within regions that are deemed to be high-risk. The program will be organised by the taskforce and a variety of awareness tools will be utilised. A key tool will be holding sessions and talks at local community centres in which our environmental experts will provide key insights into the increasing number of environmental disasters and the impact of climate change.
