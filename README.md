@@ -9,7 +9,7 @@
 
 **Team Members: Lai Wei, Dion Zhuo, Osmaan Rasouli, Hiba Fatima, Felix Tran**
 
-# ACTL5001 Group3 Project - Relocation Social Insurance
+# ACTL5001 Group3 Project - [Relocation Social Insurance] (https://actuarial-control-cycle-part-a-2023-t1.github.io/SOA-Challenge-UNSW-Group3/)
 
 ## Executive Summary
 Storslysia has contacted Group 3 Consulting to design a social insurance program to combat the increasing economic costs of relocation due to displacement rising from catastrophic climate related events. The program outlined in this report provides both incentive-based voluntary relocation as well as involuntary displacement and damage cover. The incentives program will run for 10 years and provide Ꝕ2000 for relocation to low-risk regions.
