@@ -22,3 +22,11 @@ This is written in markdown language.
 
 More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
+
+# 2023 SOA Challenge: Relocation Social Insurance Case Study
+
+**The University of New South Wales**
+
+**Group 3**
+
+**Team Members: Lai Wei, Dion Zhuo, Osmaan Rasouli, Hiba Fatima, Felix Tran**
