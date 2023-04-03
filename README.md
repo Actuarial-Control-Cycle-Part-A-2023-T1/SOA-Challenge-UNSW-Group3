@@ -1,4 +1,4 @@
-[here](https://pages.github.com/)![](Actuarial.jpg)
+(https://pages.github.com/)![](Actuarial.jpg)
 
 # 2023 SOA Challenge: Relocation Social Insurance Case Study
 
