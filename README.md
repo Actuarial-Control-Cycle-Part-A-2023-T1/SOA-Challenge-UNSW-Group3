@@ -20,7 +20,7 @@ The proposed Relocation Social Insurance (RSI) program will address displacement
 The RSI program is offered to the entire population of Storslysia and is designed with consideration to key demographic information. Furthermore, expected future program costs have been estimated to ensure that total costs remain below 10% of GDP. This is a key consideration which will enable the program to remain sustainable in the long run. A conservative approach has been utilised in which a high emissions scenario has high levels of inflation and a generous margin have been allocated to confidently assure that costs will not exceed this threshold.
 
 ### 2.1 Key Metrics
-![Picture 1](src = "https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/SOA-Challenge-UNSW-Group3/blob/Github-page-group3/Key%20Matrix%20of%20the%20program.png")
+![Picture 1]()
 
 
 ## Program Design
