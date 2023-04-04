@@ -11,18 +11,18 @@
 
 # ACTL5001 Group3 Project - [Relocation Social Insurance](https://actuarial-control-cycle-part-a-2023-t1.github.io/SOA-Challenge-UNSW-Group3/)
 
-## Executive Summary
+## 1.Executive Summary
 Storslysia has contacted Group 3 Consulting to design a social insurance program to combat the increasing economic costs of relocation due to displacement rising from catastrophic climate related events. The program outlined in this report provides both incentive-based voluntary relocation as well as involuntary displacement and damage cover. The incentives program will run for 10 years and provide Ꝕ2000 for relocation to low-risk regions.
 This incentive serves as a low-cost program aimed at reducing the overall costs incurred from natural disasters in the country due to involuntary displacement, goods replacement, material and labour costs. Under this program design, it is expected that Storslysia will have reduced overall costs from natural disasters in all forecasted emission scenarios.
 
-## Objectives
+## 2.Objectives
 The proposed Relocation Social Insurance (RSI) program will address displacement issues resulting from hazard events which is particularly crucial due to a growing concern regarding global warming and climate change. The RSI program has both a proactive and reactive approach to manage displacement costs within the country. The program offers a voluntary relocation incentive payment to those who currently live in a high-risk region when they relocate to a low-risk region before a hazardous event occurs. Involuntary displacement cover is offered to relocate people who live in a property which has been significantly damaged from a hazardous event. Historic property damage costs are large and have been analysed in detail to understand potential future displacement costs which is demonstrated in Appendix A.1. With this voluntary movement, the program aims to reduce Storslysia’s catastrophe-related displacement costs under all forecasted scenarios.
 The RSI program is offered to the entire population of Storslysia and is designed with consideration to key demographic information. Furthermore, expected future program costs have been estimated to ensure that total costs remain below 10% of GDP. This is a key consideration which will enable the program to remain sustainable in the long run. A conservative approach has been utilised in which a high emissions scenario has high levels of inflation and a generous margin have been allocated to confidently assure that costs will not exceed this threshold.
 
 ### 2.1 Key Metrics
 ![picture 1](images/Table1.png)
 
-## Program Design
+## 3.Program Design
 ### 3.1 Claim Lodgement Requirements
 ![picture 2](images/Table2.png)
 
@@ -48,7 +48,7 @@ Indirectly by maintaining the health and well-being of citizens during hazard ev
 ### 3.4 Short-Term and Long-Term Objectives
 The program will be monitored annually to ensure that the outlined objectives are achieved. Total costs have been evaluated over the short term (first 10 years) and the long term (100-year timeframe) which are displayed in Appendix B.1 and Appendix B.2 respectively. In both timeframes expected total costs are below GDP and the program has resulted in a reduction in total property damage.
 
-## Pricing/Costs
+## 4.Pricing/Costs
 
 ### 4.1 Economic Costs Projections Methodology
 Data cleaning has been conducted as an initial step before the modelling process. This involved truncating the data after 1960, removing two outlier hazard events and on-levelling property damage. Hazard events have also been regrouped into 7 categories based on their nature. 
@@ -83,7 +83,7 @@ To project the economic costs with the program in place, the following additiona
 ### 4.3 Economic Capital Requirements
 To determine the economic capital needed with a high-level degree of certainty, a worst-case scenario estimation has been conducted. This scenario takes into consideration a 20% reduction in GDP for all years, a 10% decrease on the reduction of involuntary costs with program and a very high emission scenario assumed. From Appendix C.7, it can be seen that for both long term and short term, the costs are still within 10% of GDP. The economic costs needed for the short term is around 2.9 billion and for the long term is around 729 billion.
 
-## Assumptions
+## 5.Assumptions
 
 ### 5.1 Key Assumptions
 - Fatalities and injuries have a monetary value of Ꝕ4 760 884 and Ꝕ203 910 respectively.
@@ -105,7 +105,7 @@ With consideration of all natural disasters, relocation will thus play a large r
 - Relocation costs are only applicable towards owner-occupied houses and population.
 - Houses are uninhabitable after a percentage of damage, and thus a larger number of houses are affected per natural disaster than just the property damage against house prices.
 
-## Risk and Risk Mitigation Strategies 
+## 6.Risk and Risk Mitigation Strategies 
 ### 6.1 Quantitative and Qualitative Program Risks
 ![picture 5](images/Table4.png)
 
@@ -125,7 +125,7 @@ Regarding the sensitivity implications with and without the program, the program
 ### 6.5 Program Costs in Comparison to GDP
 Worst-case scenario projections and sensitivity testing results clearly show that program costs will not exceed 10% of GDP with a high level of certainty. Short-term and long-term projections remain below the GDP constraint for all four emission scenarios. An extreme stress test has been conducted such that the base model maximises total costs. This scenario is displayed in Appendix D.2 and reveals that the total cost of the program would still not breach the 10% GDP threshold. It can be concluded that the GDP threshold would only potentially be breached in the unlikely event that the cost benefits of voluntary relocation begin to diminish at a rapid rate or if the program is revised such that excessive government expenditure on incentives exceeds the GDP constraint.
 
-## Data and Data Limitations
+## 7.Data and Data Limitations
 
 ### 7.1 Data Sources
 The three data sources, all provided from the Society of Actuaries and where future emissions data originated from IPCC's SSP Scenarios for Future Atmospheric CO2 Concentrations, Worldwide Population, and GDP, were:
