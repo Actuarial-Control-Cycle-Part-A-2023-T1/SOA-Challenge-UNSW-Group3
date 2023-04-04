@@ -22,6 +22,7 @@ The RSI program is offered to the entire population of Storslysia and is designe
 ### 2.1 Key Metrics
 ![Picture 1](program.png)
 
+![Picture 2](Table_2_Claim_Lodgement_Requirements_of_Program.JPG)
 
 ## Program Design
 ### 3.1 Claim Lodgement Requirements
