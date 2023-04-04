@@ -145,3 +145,5 @@ Limited external data was used, such as an estimate of the value of a statistica
 ### 7.2 Data Limitations
 There was a small amount of missing data those of which were filled in with standard imputation methods. Additionally, limited demographic data was available, usually only 2-3 years making it difficult to explore long term trends. Lastly, future emissions data was given on a decadal basis, meaning that figures for the years in between that could not be derived in some other way had to be estimated using a simple linear average assumption between decades.
 The conclusions and projections discussed in this report are deemed to be accurate and reasonable however are dependent on the accuracy and sensibility of the data provided. The data provided, for example, cannot provide a range of exact future world scenarios with probabilities, and hence our results may then be considered as best estimates of future outcomes.
+
+
