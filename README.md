@@ -20,10 +20,15 @@ The proposed Relocation Social Insurance (RSI) program will address displacement
 The RSI program is offered to the entire population of Storslysia and is designed with consideration to key demographic information. Furthermore, expected future program costs have been estimated to ensure that total costs remain below 10% of GDP. This is a key consideration which will enable the program to remain sustainable in the long run. A conservative approach has been utilised in which a high emissions scenario has high levels of inflation and a generous margin have been allocated to confidently assure that costs will not exceed this threshold.
 
 ### 2.1 Key Metrics
+![picture 1](images/Table1.png)
 
 ## Program Design
 ### 3.1 Claim Lodgement Requirements
+![picture 2](images/Table2.png)
+
 ### 3.2 Coverage Limitations
+![picture 3](images/Table3.png)
+
 ### 3.3 Policy Incentives
 The program has a few key incentives embedded in its design to reduce the overall economic costs of displacement within the country. The key incentives are outlined below:
 1. Bonus relocation incentive payment
@@ -60,72 +65,54 @@ The short-term inflation is selected by the 10-year average of the AR(1) project
 
 #### 4.2.1 Economic costs without the program
 To project the economic costs that would be incurred without the program, the following components have been considered:
-•	The claims costs including injuries, fatalities and property damage caused by future hazard events are projected using GLM.
-•	A 75% margin on top of the claim costs is added for replacing household goods.
-•	Due to possible demand change, the price for material and labour will increase, and thus a 50% margin is added on top of the claim costs.
-•	Involuntary movement costs to temporary housing, caused by destruction of houses.
+- The claims costs including injuries, fatalities and property damage caused by future hazard events are projected using GLM.
+- A 75% margin on top of the claim costs is added for replacing household goods.
+- Due to possible demand change, the price for material and labour will increase, and thus a 50% margin is added on top of the claim costs.
+- Involuntary movement costs to temporary housing, caused by destruction of houses.
 #### 4.2.2 Economic costs with the program
 To project the economic costs with the program in place, the following additional items have been taken into consideration:
-•	The incentive program encouraging people to relocate from high-risk areas to a low-risk areas will incur an incentive cost.
-•	Benefits from voluntary relocation scheme as there is a reduction in exposure will lead to a cost reduction.
+- The incentive program encouraging people to relocate from high-risk areas to a low-risk areas will incur an incentive cost.
+- Benefits from voluntary relocation scheme as there is a reduction in exposure will lead to a cost reduction.
 
+![picture 4](images/Figure1and2.png)
 
-
-
-Figure 1: Short-Term Economic Costs Under Different Scenarios	Figure 2: Long-Term Economic Costs Under Different Scenarios
- 	 
-
-•	For the short-term economic costs, a 10-year time frame is used, which was calculated as a simple average of 2020 economic costs and the projected 2030 economic costs (Appendix C.4 and Appendix C.5). From the short-term graph on the left above, with program will incur relatively smaller costs compared to the long term for any future scenarios. From the long-term graph on the right above, the very high emission gives a larger cost due to an exponential impact from the future inflation. For the long-term projection, the economic costs saving from with program is more obvious than the short term (Appendix C.6). This is because the exposure reduced in high-risk areas will decrease the total involuntary displacement costs and the implicit total saving increases over time.
+- For the short-term economic costs, a 10-year time frame is used, which was calculated as a simple average of 2020 economic costs and the projected 2030 economic costs (Appendix C.4 and Appendix C.5). From the short-term graph on the left above, with program will incur relatively smaller costs compared to the long term for any future scenarios. From the long-term graph on the right above, the very high emission gives a larger cost due to an exponential impact from the future inflation. For the long-term projection, the economic costs saving from with program is more obvious than the short term (Appendix C.6). This is because the exposure reduced in high-risk areas will decrease the total involuntary displacement costs and the implicit total saving increases over time.
 ### 4.3 Economic Capital Requirements
 To determine the economic capital needed with a high-level degree of certainty, a worst-case scenario estimation has been conducted. This scenario takes into consideration a 20% reduction in GDP for all years, a 10% decrease on the reduction of involuntary costs with program and a very high emission scenario assumed. From Appendix C.7, it can be seen that for both long term and short term, the costs are still within 10% of GDP. The economic costs needed for the short term is around 2.9 billion and for the long term is around 729 billion.
 
 ## Assumptions
 ### 5.1 Key Assumptions
-•	Fatalities and injuries have a monetary value of Ꝕ4 760 884 and Ꝕ203 910 respectively.
+- Fatalities and injuries have a monetary value of Ꝕ4 760 884 and Ꝕ203 910 respectively.
 Studies have found an estimate for societal values in preventing death and the value of a year of life. As of 2022, the value of statistical life is AUS$5.3m and the value of statistical life year is AUS$227,000 (Department of the Prime Minister and Cabinet, 2022).                   The currency values are then converted with the provided, and publicly available exchange rate information from date 3rd March 2023. This therefore allows the combination and comparison between deadly and damaging natural disasters.
-•	The severity of natural disasters follows clusters based on their total severity value, where this includes fatalities, injuries, and property damage.
+- The severity of natural disasters follows clusters based on their total severity value, where this includes fatalities, injuries, and property damage.
 Natural disaster can be universally classified based on their total key statistics such as fatalities or economic damage (Caldera & Wirasinghe, 2021). Following from the previous assumption, fatalities and injuries are included with property damage to calculate total severity value.   This leads to distributing the natural disasters data and allowing for severity classifications to be determined by the data clustering, of which determines the proportioning of minor, medium and major events.
-•	1% of populations in region will relocate under the program.
+- 1% of populations in region will relocate under the program.
 In comparison with multiple other relocation programs, it was examined that a small number of households undertake the program (Bower & Weerasinghe, 2021). Thus, 1% is chosen to be in-line with the contemporary results. 
 Additionally, greater premium pricing in risky areas and the populations’ understanding of the climate risk impacts causes voluntary relocation to be a viable option over not moving.     This allows for the forecasting of costs under the relocation program and overall level of cost reduction.
-•	The voluntary relocation leads to a 20% reduction in involuntary movement costs.
+- The voluntary relocation leads to a 20% reduction in involuntary movement costs.
 When relocating people in risky areas to lower risk areas, there is an expected decrease in the number of people affected by natural disasters overall.
 With consideration of all natural disasters, relocation will thus play a large role in a community’s long-term recovery (Bodine, Tracy & Javernick-Will 2022), and thus the 20% reduction is chosen to reflect this.
 ### 5.2 Additional Assumptions
-•	Only data from the past 50 years was considered as relevant.
-•	The distribution of natural disaster severity closely fits a GLM with family Gamma.
-•	The provided future projection was assumed to cover all possible scenarios, with the very high emissions being the worst possible scenario for natural disasters. 
-•	Additional costs of natural disasters (i.e. material, labour, housing, relocation, household goods replacement) are at the maximum possible level and are constant.
-•	Relocation costs are only applicable towards owner-occupied houses and population.
-•	Houses are uninhabitable after a percentage of damage, and thus a larger number of houses are affected per natural disaster than just the property damage against house prices.
+- Only data from the past 50 years was considered as relevant.
+- The distribution of natural disaster severity closely fits a GLM with family Gamma.
+- The provided future projection was assumed to cover all possible scenarios, with the very high emissions being the worst possible scenario for natural disasters. 
+- Additional costs of natural disasters (i.e. material, labour, housing, relocation, household goods replacement) are at the maximum possible level and are constant.
+- Relocation costs are only applicable towards owner-occupied houses and population.
+- Houses are uninhabitable after a percentage of damage, and thus a larger number of houses are affected per natural disaster than just the property damage against house prices.
 
 ## Risk and Risk Mitigation Strategies 
 ### 6.1 Quantitative and Qualitative Program Risks
-Table 4: Quantitative Risks and Mitigation Strategies
-Quantitative Risk	Description of Risk 	Mitigation Strategy
-Market Risk	The rise in repairs and construction costs as a result of an increase in demand for building materials and labour after a hazard event.	The proposed voluntary relocation program offers incentive payments and property-related coverage reducing the risk of paying last-minute prices in disaster periods. A future property mitigation grant program could be considered upon regular program reviews. This would entail reinforcement requirements for hazard-prone homes.
-Underwriting Risk	Incorrect risk profiling and inaccurate claims management.	A conservative approach of a 5% risk buffer has been applied to avoid underestimating costs. The margin will ensure that objectives are achieved even when minor underwriting risks are incurred. 
- <
-Table 5: Qualitative Risks and Mitigation Strategies
-Qualitative Risk	Description of Risk  	Mitigation Strategy
-Environmental (Catastrophe) Risk	Severe changes in environmental conditions or instances of catastrophic events. 	If catastrophic risk proves to be problematic over time, excess of loss reinsurance and the implementation of a self-insurance program will reduce the impacts of this risk moving forward. The self-insurance program could entail the use of pension fund savings as a disaster relief instrument (Guo & Narita 2018).
-Social Risk
-	Negative social attitudes towards the program may decrease participation for voluntary relocation. 	A recurring review could be undertaken to gain insight on public opinion. This review can also allow input from key leaders of community groups, enabling a sense of community involvement in natural disaster management.
-Relocation Risk	The risk that can occur in the event that more than one region is simultaneously affected by a natural disaster.	Flexible relocation programs can be initiated, relocating to either single or multiple sites depending on the nature of the hazard.
+![picture 5](images/Table4.png)
+
+![picture 6](images/Table5.png)
 
 ### 6.2 Likelihood and Severity Heat Map
-Table 6: Risk Heat Map
-	Risk Likelihood
-	Unlikely	Possible	Likely
-Risk Severity	Low	Underwriting Risk	Social Risk	 
-	Medium 	Relocation Risk	 	Market Risk
-	High	Environmental Risk	 	
+![picture 7](images/Table6.png)	 	
 
 ### 6.3 Sensitivity Analysis
 As the program’s main focus is to relocate people to safer regions, the main highlight of the sensitivity analysis was on the total cost proportion of each contributing region to understand sensitivities to relocation changes.
 The model demonstrates that region 2 is at the most risk of accumulating the highest costs. Assuming that the proportion of cost changes from region 2 evenly affects the other regions, the total costs of the program increase at a rising rate if region 2 is victim to a larger proportion of costs. Thus, reallocating the original proportion of region 2 costs (23.38%) costs to other regions would alleviate total costs, being the most favourable outcome.
-Figure 3: Effect of Region 2 Proportion Changes on Long-Term Costs (High Emissions Scenario)
-
+![picture 7](images/Figure3.png)	 
 
 ### 6.4 Without and Without Program Cost Comparison
 Regarding the sensitivity implications with and without the program, the program will decrease economic costs in the short term if the number of households voluntarily relocating is controlled. Within the short-term, the program will be break-even with involuntary costs if there is a 12% increase in the incentive payment value or number of expected households participating. Thus, the program may suffer from large surges in voluntary relocation in the short term. However, in the long run, these households would reap the benefits of voluntary relocation, which would see lower chances of incurring involuntary costs evident in Appendix D.1. Thus, the program would incur less economic costs than without the program in the long run with a high level of certainty.
