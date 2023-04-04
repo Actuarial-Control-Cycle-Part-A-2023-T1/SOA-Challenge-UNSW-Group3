@@ -1,5 +1,5 @@
 
-#(Actuarial.png)
+![](additional_images/relocation2.jpg)
 
 # 2023 SOA Challenge: Relocation Social Insurance Case Study
 
