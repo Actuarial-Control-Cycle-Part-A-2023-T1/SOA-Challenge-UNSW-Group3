@@ -20,9 +20,6 @@ The proposed Relocation Social Insurance (RSI) program will address displacement
 The RSI program is offered to the entire population of Storslysia and is designed with consideration to key demographic information. Furthermore, expected future program costs have been estimated to ensure that total costs remain below 10% of GDP. This is a key consideration which will enable the program to remain sustainable in the long run. A conservative approach has been utilised in which a high emissions scenario has high levels of inflation and a generous margin have been allocated to confidently assure that costs will not exceed this threshold.
 
 ### 2.1 Key Metrics
-![Picture 1](program.png)
-
-![Picture 2](Table_2_Claim_Lodgement_Requirements_of_Program.JPG)
 
 ## Program Design
 ### 3.1 Claim Lodgement Requirements
@@ -33,3 +30,16 @@ The program has a few key incentives embedded in its design to reduce the overal
 A bonus relocation payment of Ꝕ2000 will be provided to those living in owner occupied properties who voluntarily relocate from a high-risk area to a low-risk area prior to a hazard event.
 2. Community disaster awareness program
 A community disaster awareness program is set up to creative awareness of the program as well as inform the community of the risks of continuing to live within regions that are deemed to be high-risk. The program will be organised by the taskforce and a variety of awareness tools will be utilised. A key tool will be holding sessions and talks at local community centres in which our environmental experts will provide key insights into the increasing number of environmental disasters and the impact of climate change.
+
+### 3.4 Quantitative and Qualitative Justifications of the Program
+#### 3.4.1 Quantitative Justifications
+A key quantitative objective is to reduce the overall economic impact of hazards to residential properties by controlling property damage costs. Economic cost projections over both the short- and long-term horizons demonstrate that the program has reduced total impacts of hazard events. In the conservative high emissions projection model, there is 0.3% reduction in short-term costs and a 4.9% reduction in long-term costs. In the less conservative scenario of low emissions, there are reductions of 0.3% in the short term and 9.2% in the long term. Despite short-term reductions appearing minimal in percentage terms, these in magnitude are considered substantial. In addition to this, various scenario and stress testing also demonstrate that costs will remain below the 10% GDP threshold which enables ongoing sustainability of the program.
+
+#### 3.4.2 Qualitative Justifications
+The proposed program is designed to achieve the two key qualitative objectives; lower hazard mortality and lower hazard-related injuries. Through voluntary relocation, there are fewer residents of high-risk regions that will endure severe hazard events. These severe events cause higher levels of mortality and injuries.
+Indirectly by maintaining the health and well-being of citizens during hazard events, the program will have positive economic impacts. These include fewer people taking time off work due to injuries preventing them from being able to perform their work duties and fewer people who have been injured excessively and therefore not being able to return to work.
+
+### 3.4 Short-Term and Long-Term Objectives
+The program will be monitored annually to ensure that the outlined objectives are achieved. Total costs have been evaluated over the short term (first 10 years) and the long term (100-year timeframe) which are displayed in Appendix B.1 and Appendix B.2 respectively. In both timeframes expected total costs are below GDP and the program has resulted in a reduction in total property damage.
+
+## Pricing/Costs
