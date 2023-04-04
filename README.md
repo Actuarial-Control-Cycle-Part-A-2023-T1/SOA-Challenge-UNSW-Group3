@@ -55,7 +55,9 @@ From the correlation matrix in Appendix C.1, there is no strong correlated varia
 4.	Model future inflation
 For the inflation, as it is a time series data, an ARIMA method was selected to do the projection. From the analysis shown in Appendix C.3, the sample PACF drops suddenly inside the confidence interval after lag 1. This suggests the data can be fit with an AR(1).
 The short-term inflation is selected by the 10-year average of the AR(1) projection. The AR(1) gives an estimation of 3.595% for long term inflation. The final long-term inflation is selected at 6.595% to allow for the future uncertainty.
+
 ### 4.2 Projection Results
+
 #### 4.2.1 Economic costs without the program
 To project the economic costs that would be incurred without the program, the following components have been considered:
 •	The claims costs including injuries, fatalities and property damage caused by future hazard events are projected using GLM.
