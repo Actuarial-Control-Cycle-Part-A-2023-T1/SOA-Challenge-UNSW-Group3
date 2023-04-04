@@ -69,6 +69,7 @@ To project the economic costs that would be incurred without the program, the fo
 - A 75% margin on top of the claim costs is added for replacing household goods.
 - Due to possible demand change, the price for material and labour will increase, and thus a 50% margin is added on top of the claim costs.
 - Involuntary movement costs to temporary housing, caused by destruction of houses.
+
 #### 4.2.2 Economic costs with the program
 To project the economic costs with the program in place, the following additional items have been taken into consideration:
 - The incentive program encouraging people to relocate from high-risk areas to a low-risk areas will incur an incentive cost.
