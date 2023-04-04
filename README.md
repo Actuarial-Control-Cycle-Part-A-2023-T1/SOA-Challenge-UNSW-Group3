@@ -141,8 +141,7 @@ The three data sources, all provided from the Society of Actuaries and where fut
 
 3.	Emissions data: The number of minor, medium, and major hazard events found using the historic hazard event data was implemented in the model of emissions data to develop a conservative future world scenario to be used in hazard projection for the purpose of voluntary and involuntary insurance programs for Storslysia. Additionally, the growth rate of world GDP per capita was used as a proxy for the growth rate of Storslysia’s GDP.
 Limited external data was used, such as an estimate of the value of a statistical life year (in AUD). This was used to more completely model the total cost of disasters and to create a more conservative scenario that still meets the program objectives. Additionally, the US exchange rate data was used to convert this value of a statistical life from AUD to USD, and then from USD to Storslysia’s local currency.
-<
+
 ### 7.2 Data Limitations
 There was a small amount of missing data those of which were filled in with standard imputation methods. Additionally, limited demographic data was available, usually only 2-3 years making it difficult to explore long term trends. Lastly, future emissions data was given on a decadal basis, meaning that figures for the years in between that could not be derived in some other way had to be estimated using a simple linear average assumption between decades.
 The conclusions and projections discussed in this report are deemed to be accurate and reasonable however are dependent on the accuracy and sensibility of the data provided. The data provided, for example, cannot provide a range of exact future world scenarios with probabilities, and hence our results may then be considered as best estimates of future outcomes.
-![image](https://user-images.githubusercontent.com/29918941/229772559-080bdc94-3270-4d0e-8210-b1cd0bd49db8.png)
