@@ -21,7 +21,7 @@ The RSI program is offered to the entire population of Storslysia and is designe
 
 ### 2.1 Key Metrics
 <p align="center">
-<img src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-group-3/blob/Github-page-group3/Key%20Matrix%20of%20the%20program.png"> 
+<img src=program.png> 
 </p>
 
 
