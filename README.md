@@ -37,6 +37,7 @@ A bonus relocation payment of Ꝕ2000 will be provided to those living in owner 
 A community disaster awareness program is set up to creative awareness of the program as well as inform the community of the risks of continuing to live within regions that are deemed to be high-risk. The program will be organised by the taskforce and a variety of awareness tools will be utilised. A key tool will be holding sessions and talks at local community centres in which our environmental experts will provide key insights into the increasing number of environmental disasters and the impact of climate change.
 
 ### 3.4 Quantitative and Qualitative Justifications of the Program
+
 #### 3.4.1 Quantitative Justifications
 A key quantitative objective is to reduce the overall economic impact of hazards to residential properties by controlling property damage costs. Economic cost projections over both the short- and long-term horizons demonstrate that the program has reduced total impacts of hazard events. In the conservative high emissions projection model, there is 0.3% reduction in short-term costs and a 4.9% reduction in long-term costs. In the less conservative scenario of low emissions, there are reductions of 0.3% in the short term and 9.2% in the long term. Despite short-term reductions appearing minimal in percentage terms, these in magnitude are considered substantial. In addition to this, various scenario and stress testing also demonstrate that costs will remain below the 10% GDP threshold which enables ongoing sustainability of the program.
 
@@ -48,13 +49,13 @@ Indirectly by maintaining the health and well-being of citizens during hazard ev
 The program will be monitored annually to ensure that the outlined objectives are achieved. Total costs have been evaluated over the short term (first 10 years) and the long term (100-year timeframe) which are displayed in Appendix B.1 and Appendix B.2 respectively. In both timeframes expected total costs are below GDP and the program has resulted in a reduction in total property damage.
 
 ## Pricing/Costs
+
 ### 4.1 Economic Costs Projections Methodology
 Data cleaning has been conducted as an initial step before the modelling process. This involved truncating the data after 1960, removing two outlier hazard events and on-levelling property damage. Hazard events have also been regrouped into 7 categories based on their nature. 
 1.	Model historical claims type
 Fatalities and injuries are converted into monetary values of Ꝕ4 760 884 and Ꝕ203 910 respectively (Department of the Prime Minister and Cabinet, 2022). These are then used to calculate the total cost of a natural disaster by summing them with the inflation-adjusted property damages. Afterwards, an unsupervised K-means clustering is applied on the total costs to classify the historical natural disaster events into minor, medium and major severities.
 2.	Model claims count
 From the K-mean’s result, there are 6 major claims, 115 medium claims and 2934 minor claims, where the major type gives the highest average total cost, defined as total cost (as outlined previously) divided by the number of claims. The number of claims for each region is then modelled using a frequency projection model. The expected number of hazard events in 2020 is just a simple average of the K-mean’s result. The total expected number of hazard events is subsequently allocated to each region’s frequency model by claims type. 
-
 3.	Model severity costs
 From the correlation matrix in Appendix C.1, there is no strong correlated variables among fatalities, injuries, and on-levelled property damage. Thus, to model severity, total cost is used and is seen as “total_cost” in its empirical distribution in Appendix C.8. Based on the distribution, a GLM (family = Gamma) with log link is used to model the amounts, with a lasso penalty applied when estimating the model. The variables used in the model are region, quarter, hazard group and hazard type. Based on the GLM estimates in Appendix C.2, region 2 has the largest impact within all regions, while hazard group 5 (Hurricane/Tropical Storm) has the largest impact within all hazard groups, and the total damage occurred in quarter 4 is the most severe.
 4.	Model future inflation
@@ -78,10 +79,12 @@ To project the economic costs with the program in place, the following additiona
 ![picture 4](images/Figure1and2.png)
 
 - For the short-term economic costs, a 10-year time frame is used, which was calculated as a simple average of 2020 economic costs and the projected 2030 economic costs (Appendix C.4 and Appendix C.5). From the short-term graph on the left above, with program will incur relatively smaller costs compared to the long term for any future scenarios. From the long-term graph on the right above, the very high emission gives a larger cost due to an exponential impact from the future inflation. For the long-term projection, the economic costs saving from with program is more obvious than the short term (Appendix C.6). This is because the exposure reduced in high-risk areas will decrease the total involuntary displacement costs and the implicit total saving increases over time.
+
 ### 4.3 Economic Capital Requirements
 To determine the economic capital needed with a high-level degree of certainty, a worst-case scenario estimation has been conducted. This scenario takes into consideration a 20% reduction in GDP for all years, a 10% decrease on the reduction of involuntary costs with program and a very high emission scenario assumed. From Appendix C.7, it can be seen that for both long term and short term, the costs are still within 10% of GDP. The economic costs needed for the short term is around 2.9 billion and for the long term is around 729 billion.
 
 ## Assumptions
+
 ### 5.1 Key Assumptions
 - Fatalities and injuries have a monetary value of Ꝕ4 760 884 and Ꝕ203 910 respectively.
 Studies have found an estimate for societal values in preventing death and the value of a year of life. As of 2022, the value of statistical life is AUS$5.3m and the value of statistical life year is AUS$227,000 (Department of the Prime Minister and Cabinet, 2022).                   The currency values are then converted with the provided, and publicly available exchange rate information from date 3rd March 2023. This therefore allows the combination and comparison between deadly and damaging natural disasters.
@@ -93,6 +96,7 @@ Additionally, greater premium pricing in risky areas and the populations’ unde
 - The voluntary relocation leads to a 20% reduction in involuntary movement costs.
 When relocating people in risky areas to lower risk areas, there is an expected decrease in the number of people affected by natural disasters overall.
 With consideration of all natural disasters, relocation will thus play a large role in a community’s long-term recovery (Bodine, Tracy & Javernick-Will 2022), and thus the 20% reduction is chosen to reflect this.
+
 ### 5.2 Additional Assumptions
 - Only data from the past 50 years was considered as relevant.
 - The distribution of natural disaster severity closely fits a GLM with family Gamma.
@@ -117,10 +121,12 @@ The model demonstrates that region 2 is at the most risk of accumulating the hig
 
 ### 6.4 Without and Without Program Cost Comparison
 Regarding the sensitivity implications with and without the program, the program will decrease economic costs in the short term if the number of households voluntarily relocating is controlled. Within the short-term, the program will be break-even with involuntary costs if there is a 12% increase in the incentive payment value or number of expected households participating. Thus, the program may suffer from large surges in voluntary relocation in the short term. However, in the long run, these households would reap the benefits of voluntary relocation, which would see lower chances of incurring involuntary costs evident in Appendix D.1. Thus, the program would incur less economic costs than without the program in the long run with a high level of certainty.
+
 ### 6.5 Program Costs in Comparison to GDP
 Worst-case scenario projections and sensitivity testing results clearly show that program costs will not exceed 10% of GDP with a high level of certainty. Short-term and long-term projections remain below the GDP constraint for all four emission scenarios. An extreme stress test has been conducted such that the base model maximises total costs. This scenario is displayed in Appendix D.2 and reveals that the total cost of the program would still not breach the 10% GDP threshold. It can be concluded that the GDP threshold would only potentially be breached in the unlikely event that the cost benefits of voluntary relocation begin to diminish at a rapid rate or if the program is revised such that excessive government expenditure on incentives exceeds the GDP constraint.
 
 ## Data and Data Limitations
+
 ### 7.1 Data Sources
 The three data sources, all provided from the Society of Actuaries and where future emissions data originated from IPCC's SSP Scenarios for Future Atmospheric CO2 Concentrations, Worldwide Population, and GDP, were:
 1.	Historic hazard event data: Historic hazard event data was used to develop thresholds for hazards to be classified as minor, medium, or major for purpose in the emissions model. This was done using a traditional observation method, as well as K-means clustering and a GLM model. The inflation metrics were used to realise the value of past disaster costs for a more accurate interpretation of them. 
